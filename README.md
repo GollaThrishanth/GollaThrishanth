@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gollathrishanth@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He\Him
 - ⚡ Fun fact: studying with having 0 intrest in studies
 
 <!---
